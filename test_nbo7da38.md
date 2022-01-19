@@ -1,6 +1,6 @@
 # Test
 
-Link \[Link\](#link)
+[Link\](#link)
 
   
 
