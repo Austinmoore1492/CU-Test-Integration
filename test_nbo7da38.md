@@ -20,4 +20,4 @@ At imperdiet dui accumsan sit amet nulla facilisi morbi. Egestas diam in arcu cu
 
   
 
-<a href="#link">Page 2</a>
+<a name="#link">Page 2</a>
